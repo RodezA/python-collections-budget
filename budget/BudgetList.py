@@ -35,9 +35,6 @@ if __name__ == "__main__":
     main()
     fig, ax = plt.subplots()
 
-for entry in myBudgetList:
-    print(entry)
-
 def __iter__(self):
     self.iter()=self.expenses
     self.iter_o=self.overages
